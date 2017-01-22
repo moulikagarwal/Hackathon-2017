@@ -19,5 +19,8 @@
     "gulp-usemin": "^0.3.7",
     "gulp-watch": "^4.3.5",
     "gulp-wrap": "^0.11.0"
+  },
+  "dependencies": {
+    "watson-developer-cloud": "^2.15.2"
   }
 }
